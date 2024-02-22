@@ -5,7 +5,7 @@ public void setup()
 {   
   size(640,480);    
   noLoop(); 
-} 
+}
 public void draw() 
 {   
   background(0);   
